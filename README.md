@@ -95,11 +95,11 @@ curl -X DELETE http://localhost:8080/tasks/123
 ## Screenshorts of Output
 
  ![Postman_GET_All_Tasks](1.png) | All Tasks retrieved via GET |
-| ![Postman_PUT_Create_Task](.png) | Task created successfully |
+| ![Postman_PUT_Create_Task](2.png) | Task created successfully |
 | ![Postman_PUT_Execute_Task](3.png) | Command executed successfully |
 | ![MongoDB_Task_Collection](4.png) | MongoDB data verification |
 | ![Terminal_Application_Run](5.png) | Spring Boot server run log |
-
+| ![Terminal_Application_Run](6.png) | Spring Boot server run log |
 
 
 
