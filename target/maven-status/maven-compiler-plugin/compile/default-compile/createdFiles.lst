@@ -1,0 +1,7 @@
+com\kaiburr\assignment\service\TaskService.class
+com\kaiburr\assignment\models\TaskExecution.class
+com\kaiburr\assignment\controller\TaskController.class
+com\kaiburr\assignment\models\Task.class
+com\kaiburr\assignment\config\CorsConfig.class
+com\kaiburr\assignment\repository\TaskRepository.class
+com\kaiburr\assignment\AssignmentApplication.class
